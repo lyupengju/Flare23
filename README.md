@@ -1,6 +1,6 @@
 # FLARE2023
 
-This repository is the official implementation of our participation in [FLARE competition](https://www.example.com).
+This repository is the official implementation of our participation in [FLARE competition](https://codalab.lisn.upsaclay.fr/competitions/12239).
 
 ## Description
 
