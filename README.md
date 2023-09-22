@@ -23,8 +23,8 @@ These instructions will help you get a copy of the project up and running on you
 ### Train
 Training files can be found in  folder "flare2023_train". change transforms stream in  "monai_datamodule.py".  
 Run in terminal: 
-'cd flare2023_train'
-python train.py
+'''cd flare2023_train
+python train.py'''
 
 ### Inference
 Training files can be found in  folder "flare2023_inference". we provide our best model weights for both phases.
