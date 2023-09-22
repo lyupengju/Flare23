@@ -1,6 +1,6 @@
-# Project Title
+# FLARE2023
 
-This is a simple README file to demonstrate how to format a README for a GitHub project using Markdown.
+This repository is the official implementation of our participation in [FLARE competition](https://www.example.com).
 
 ## Description
 
