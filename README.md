@@ -12,11 +12,13 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Prerequisites
 
-List any software, tools, packages, libraries, etc that are required before installing and running the project. Some examples:
+-Ubuntu 20.04.5 LTS
+-Python 3.8
+-torch 2.0.1
+-torchvision 0.15.2
+-CUDA 11.8
+-monai 1.2.0
 
-- Python 3.7
-- NumPy 1.15+
-- PyTorch 1.0+
 
 ### Installing
 
@@ -31,23 +33,13 @@ Add additional steps as needed.
 
 ## Usage
 
-Provide examples and instructions on how to use the project and any functionality it provides. This section can be added as needed.
 
-## Contributing
+### train
 
-If you want others to be able to contribute to the project, provide guidelines here.
+### Inference
 
-- Fork the project and clone locally
-- Create a new branch for your work
-- Make your changes and test thoroughly
-- Submit a pull request for review
 
-You can also list specific ways people can contribute, like new features, tutorials, documentation, bug fixes, etc.
-
-## License
-
-Include licensing information here. List any licenses that apply to the project.
-
-## Contact
-
-Provide contact information in case users need to reach you with questions, feedback, issues, or contributions.
+## Reference (under review)
+[Advancing Multi-Organ and Pan-Cancer
+Segmentation in Abdominal CT Scans through
+Scale-Aware and Self-Attentive Modulation](https://openreview.net/forum?id=Mz7HMmc01M)
