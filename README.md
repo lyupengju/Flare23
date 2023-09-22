@@ -11,7 +11,6 @@ This paragraph provides a brief overview of what the project is about. It explai
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-
 -Ubuntu 20.04.5 LTS
 -Python 3.8
 -torch 2.0.1
