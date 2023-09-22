@@ -20,10 +20,10 @@ These instructions will help you get a copy of the project up and running on you
 
 ## Usage
 
-### train
-Training files can be found in  folder "flare2023_train". set your date path in "monai_datamodule.py".  
+### Train
+Training files can be found in  folder "flare2023_train". change transforms stream in  "monai_datamodule.py".  
 Run in terminal: 
-cd flare2023_train
+'cd flare2023_train'
 python train.py
 
 ### Inference
