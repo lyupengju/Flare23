@@ -18,25 +18,19 @@ These instructions will help you get a copy of the project up and running on you
 - CUDA 11.8
 - monai 1.2.0
 
-
-### Installing
-
-Provide step-by-step instructions on how to get the development environment setup and running. For example:
-
-1. Clone the repository: `git clone https://github.com/user/repo.git`
-2. Install dependencies: `pip install -r requirements.txt` 
-3. Configure your .env file with proper credentials
-4. Run the server: `python server.py`
-
-Add additional steps as needed.
-
 ## Usage
 
-
 ### train
+Training files can be found in  folder "flare2023_train". set your date path in "monai_datamodule.py".  
+Run in terminal: 
+cd flare2023_train
+python train.py
 
 ### Inference
-
+Training files can be found in  folder "flare2023_inference". we provide our best model weights for both phases.
+Run in terminal: 
+cd flare2023_inference
+python inference.py
 
 ## Reference (under review)
 [Advancing Multi-Organ and Pan-Cancer
