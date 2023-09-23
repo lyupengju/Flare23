@@ -1,6 +1,6 @@
 # FLARE2023
 
-This repository is the official implementation of our participation in [FLARE competition](https://codalab.lisn.upsaclay.fr/competitions/12239). Experiments on the MICCAI FLARE23 challenge leaderboard validate promising performance achieving high segmentation accuracy with average Dice similarity coefficients of 89.84 % and 50.26 % for multiorgan and tumor regions respectively. Additionally, efficient inference is
+This repository is the official implementation of our participation in [FLARE competition](https://codalab.lisn.upsaclay.fr/competitions/12239). Experiments on the MICCAI FLARE23 challenge leaderboard validate promising performance achieving high segmentation accuracy with average Dice similarity coefficients of 89.84 % and 50.26 % for multi-organ and tumor regions respectively. Additionally, efficient inference is
 exhibited with an average runtime of 18 seconds per 512 × 512 × 215 3D volume with less than 2G GPU memory consumption.
 See our paper in reference section for more details. 
 
@@ -31,7 +31,8 @@ python train.py
 ```
 
 ### Inference
-Training files can be found in  folder "flare2023_inference". we provide our best model weights for both phases.
+Training files can be found in  folder "flare2023_inference". we provide our [best model weights](https://pan.baidu.com/s/1-9pGJ54zUir-5IEoZg0qmw?pwd=dy0i) for both phases.
+
 Run in terminal: 
 ```
 cd flare2023_inference
