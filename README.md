@@ -11,7 +11,7 @@ CNN in phase one employing partial convolution and a novel hybrid CNN-Transforme
 self-attention in phase two are proposed 
 
 <div align=center>
-<img src="https://github.com/lyupengju/Flare23/blob/main/figures/models.png"  width="30%">
+<img src="https://github.com/lyupengju/Flare23/blob/main/figures/models.png"  width="60%">
 </div>
 
 
