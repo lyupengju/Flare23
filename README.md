@@ -10,7 +10,7 @@ Our approach is based on the classic two-phase (location-segmentation) cascaded 
 CNN in phase one employing partial convolution and a novel hybrid CNN-Transformer model with synergistic amalgamation of scale-aware modulator and
 self-attention in phase two are proposed 
 ![image](https://github.com/lyupengju/Flare23/blob/main/figures/models.png)
-<img src="[https://github.com/仓库名/项目名/blob/master/m/20200424225428179.jpg](https://github.com/lyupengju/Flare23/blob/main/figures/models.png)" width="200"  alt="支付宝小程序"/><br/>
+<img src="https://github.com/lyupengju/Flare23/blob/main/figures/models.png" width="200"  alt="支付宝小程序"/><br/>
 
 
 
