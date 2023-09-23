@@ -9,7 +9,7 @@ See our paper in reference section for more details.
 Our approach is based on the classic two-phase (location-segmentation) cascaded processing stream wherein a lightweight
 CNN in phase one employing partial convolution and a novel hybrid CNN-Transformer model with synergistic amalgamation of scale-aware modulator and
 self-attention in phase two are proposed 
-![image](https://github.com/xxx/xxx/blob/master/xxx/xxx.png](https://github.com/lyupengju/Flare23/blob/main/figures/two_phase.png)
+![image](https://github.com/xxx/xxx/blob/master/xxx/xxx.png)
 .
 
 
