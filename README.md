@@ -34,7 +34,7 @@ python train.py
 ```
 
 ### Inference
-Training files can be found in  folder "flare2023_inference". we provide our [best model weights](https://pan.baidu.com/s/1-9pGJ54zUir-5IEoZg0qmw?pwd=dy0i) for both phases.
+Inferencing files can be found in  folder "flare2023_inference". we provide our [best model weights](https://pan.baidu.com/s/1-9pGJ54zUir-5IEoZg0qmw?pwd=dy0i) for both phases.
 
 Run in terminal: 
 ```
