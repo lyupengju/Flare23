@@ -41,7 +41,7 @@ Run in terminal:
 cd flare2023_inference
 python inference.py
 ```
-## Reference (under review)
+## Reference
 [Advancing Multi-Organ and Pan-Cancer
 Segmentation in Abdominal CT Scans through
-Scale-Aware and Self-Attentive Modulation](https://openreview.net/forum?id=Mz7HMmc01M)
+Scale-Aware and Self-Attentive Modulation](https://link.springer.com/chapter/10.1007/978-3-031-58776-4_8)
